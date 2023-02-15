@@ -2,7 +2,7 @@
 - 💼 I'm currently working with Business Intelligence
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on Power BI/ MySQL
+- 💞️ I’m looking to collaborate on Power BI/ MySQL/Python
 
 
 <!---
